@@ -1,0 +1,9 @@
+KEYBOARD:
+  WASD: Move around
+  Q: Zoom in
+  E: Zoom out
+  SPACEBAR: Pause / Unpause
+  
+MOUSE:
+  LEFT: Add a cell
+  RIGHT: Destroy a cell
